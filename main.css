@@ -1,0 +1,12 @@
+p {
+    color:blue;
+}
+
+.isyellow {
+    color:yellow;
+}
+
+.btn {
+    border: none;
+    text-align: center;
+}
